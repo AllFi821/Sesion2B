@@ -70,7 +70,22 @@ class EmpleadoTest {
 	}
 
 	@Test
-	void testCalculoNominalNeta() {
+	void testCalculoNominalNetaNegativa() {
+		fail("Not yet implemented");
+	}
+	
+	@Test
+	void testCalculoNominalNetaMenos2100() {
+		fail("Not yet implemented");
+	}
+	
+	@Test
+	void testCalculoNominalNetaEntre2100y2500() {
+		fail("Not yet implemented");
+	}
+	
+	@Test
+	void testCalculoNominalNetaMayor2500() {
 		fail("Not yet implemented");
 	}
 
